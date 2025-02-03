@@ -1,4 +1,4 @@
-# Hi, I'm Amaljith Thusharam Anil! 👋
+# Hi, I'm Amaljith T A! 👋
 
 ## 🚀 About Me
 I'm a passionate **AI Engineer & Full-Stack Developer** with expertise in **Python, Django, PostgreSQL, React, Next.js, and AI/ML**. I love building **scalable applications**, working with **real-time systems**, and diving deep into **data science and AI**.
